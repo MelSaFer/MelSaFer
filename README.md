@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### Hello, I'm Melany Salas <br>
+### Hello, I'm Melany Salas. <br>
 I'm Software engineering student at Instituto Tecnológico de Costa Rica, currently studying the fifth semester.<br>
 At this point in my career, I have worked with relational databases with MySQL and different programming models and languages like Python, Java and C++. Now, I'm learning more about databases and software requirements, also, I want to learn about cybersecurity, machine learning and others. <br>
 I consider myself as a creative person, with the ability of solving problems, I also enjoy teamwork, because it gives me the opportunity to learn about other people and their skills. I also love trying new things and learning more about technology and related subjects.
