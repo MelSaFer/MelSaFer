@@ -1,16 +1,18 @@
 ## 💫 About Me:
-### Hello, I'm Melany Salas.
+### Hello, I am Melany Salas.
 
-I'm Software engineering student at Instituto Tecnológico de Costa Rica, currently studying the fifth semester.
+ Computer Engineer Student at Instituto Tecnológico de Costa Rica, currently studying the sixth semester, 
+with knowledge in relational and non-relational databases, object-oriented programming, data structures, algorithms and more. Currently, 
+I am learning about project administration, software design and cybersecurity.
 
-At this point in my career, I have worked with SQL and nonSQL databases like MySQL, MongoDB and others. I have also worked with different programming models and languages like Python, Java and C++. Now, I'm learning more about databases and software requirements, also, I want to learn about cybersecurity, machine learning and others. 
+ During the career I have maintained excellent grades, with an average of 93. I have developed different programs, including games, applications for food services and others. 
+ 
+ I consider myself as a creative person, with the ability of solving problems and learn new things, one of the things I love the most is learning, that is one of the reason I chose this degree. Besides, helping other people makes me happy, that is why I enjoy working with teams.
 
-I consider myself as a creative person, with the ability of solving problems, I also enjoy teamwork, because it gives me the opportunity to learn about other people and their skills. I also love trying new things and learning more about technology and related subjects.
 
+## 🌐 Contact Info:
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mel_safer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/melany-salas-fernández-383328260) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/melany-salas-fernández-383328260)
 [![Email](https://img.shields.io/badge/email-melanysf01%40gmail.com-orange)]( )
 
 # 💻 Tech Stack:
