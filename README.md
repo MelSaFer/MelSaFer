@@ -1,13 +1,11 @@
 ## 💫 About Me:
 ### Hello, I am Melany Salas.
 
- Computer Engineer Student at Instituto Tecnológico de Costa Rica, currently studying the sixth semester, 
-with knowledge in relational and non-relational databases, object-oriented programming, data structures, algorithms and more. Currently, 
-I am learning about project administration, software design and cybersecurity.
+Computer Engineering student at Instituto Tecnológico de Costa Rica, with knowledge in relational and non-relational databases, data structures, algorithms, cybersecurity, virtual reality, and more.
 
- During the career I have maintained excellent grades, with an average of 93. I have developed different programs, including games, applications for food services and others. 
- 
- I consider myself as a creative person, with the ability of solving problems and learn new things, one of the things I love the most is learning, that is one of the reason I chose this degree. Besides, helping other people makes me happy, that is why I enjoy working with teams.
+Throughout my academic career, I have maintained excellent grades and developed various programs, including games and applications for food services. I consider myself a creative person with strong problem-solving abilities and a passion for learning, which is one of the main reasons I chose this degree. Helping others brings me joy, and I enjoy working in team environments.
+
+I have a strong interest in expanding my knowledge in data science and artificial intelligence, aiming to integrate these technologies into future projects.
 
 
 ## 🌐 Contact Info:
