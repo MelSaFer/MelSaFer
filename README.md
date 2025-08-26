@@ -4,7 +4,7 @@
 
 I'm a Computer Engineer from the Instituto Tecnológico de Costa Rica, with hands-on experience in data engineering, query optimization, and AI-based tools. My background includes relational and non-relational databases, algorithms, data structures, cybersecurity, and even virtual reality.
 
-I’m passionate about solving complex problems and integrating artificial intelligence into real-world applications. I enjoy building things that make an impact—whether it’s a chatbot, a backend system, or an interactive app.
+I’m passionate about solving complex problems and integrating artificial intelligence into real-world applications. I enjoy building things that make an impact.
 
 As a creative and collaborative team member, I enjoy working on solutions that make a real impact. I’m motivated by opportunities to deepen my technical skills and solve meaningful problems through experimentation and iteration
 
